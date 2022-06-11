@@ -1,0 +1,4 @@
+cutlet
+pip
+streamlit
+fugashi[unidic-lite]
