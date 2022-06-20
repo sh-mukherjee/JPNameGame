@@ -77,7 +77,7 @@ else:
            st.write('**CORRECT!**') 
            st.subheader(name_rev + ' ' + roma_name_rev)    
        else:
-           st.write('**TRY AGAIN!**')
+           st.write('**PLEASE TRY AGAIN!**')
            '''
            (Sometimes you may be asked to try again even though you chose two kanji that do make up a
            legitimate family name -- it may just not be among the top 1000 family names.)
