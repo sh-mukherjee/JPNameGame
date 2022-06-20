@@ -2,3 +2,5 @@ cutlet
 pip
 streamlit
 fugashi[unidic-lite]
+streamlit_aggrid
+streamlit-aggrid
