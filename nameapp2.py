@@ -16,6 +16,10 @@ st.title("Two-Character Japanese Family Names")
 
 st.subheader('Choose any two rows from the table below using the checkboxes. If you combine the two characters, do you get a family name that is among the top 1000 family names in Japan? Hit the Submit button and find out!')
 
+with st.expander('About me'):
+    st.write("""
+         I like making apps with Python and Streamlit. Check out my [website](https://shantalamukherjee.com) and my [LinkedIn](https://www.linkedin.com/in/shantalamukherjee/) profile.
+     """)
 
 #char1 = st.sidebar.selectbox(
      #"Make a selection for the name's first character",
